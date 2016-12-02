@@ -1,0 +1,1 @@
+# nestorcoin-qt-linux.tar
